@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Prefixfree::Rails::VERSION
   spec.authors       = ["Sijo K George"]
   spec.email         = ["cijokgeorge@yahoo.co.in"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = %q{wrapper for prefixfree.js javascript library in rails}
+  spec.description   = %q{wrapper for prefixfree.js(https://github.com/LeaVerou/prefixfree/) javascript library in rails}
+  spec.homepage      = "https://github.com/sijokg/prefixfree-rails"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
