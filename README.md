@@ -19,7 +19,7 @@ Or install it yourself as:
 ## Usage
 
 add to application.js
-//= require prefixfree
+//= require prefixfree-rails/prefixfree
 
 ## Contributing
 
